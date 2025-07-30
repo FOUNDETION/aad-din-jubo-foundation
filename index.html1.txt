@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>Ad-Deen Yubo Foundation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo.png" alt="Foundation Logo" class="logo">
+
+        <h1>Ad-Deen Yubo Foundation</h1>
+        <p>Youth foundation working for community development.</p>
+
+        <h2>আমাদের লক্ষ্য</h2>
+        <p>আমরা তরুণ সমাজের নৈতিকতা, শিক্ষা ও সমাজসেবায় উন্নয়ন ঘটাতে কাজ করি।</p>
+    </div>
+</body>
+</html>

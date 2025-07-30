@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+</head>
+<body>
+    <h1>About Ad-Deen Yubo Foundation</h1>
+    <p>This foundation works for youth and social development.</p>
+</body>
+</html>
